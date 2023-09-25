@@ -5,7 +5,7 @@ using UnityEngine;
 public class Stakes : MonoBehaviour //Pilha Burra
 {
 
-    private int topo; // No momento que a vida È gerada
+    private int topo; // No momento que a vida √© gerada
     private int[] Elementos = new int[1000];
     private int qtd;
 
@@ -80,7 +80,7 @@ public class FilaEncadeadaCircular<T>
         tamanho++;
     }
 
-    public T Retirar() // De forma padr„o ir· retirar como uma pilha
+    public T Retirar() // De forma padr√£o ir√° retirar como uma pilha
     {
         if (Vazia())
         {
@@ -104,7 +104,7 @@ public class FilaEncadeadaCircular<T>
         tamanho = -1;
     }
 
-    public void TransformarPilhaFila() //Inverte a ordem da pilha, transformando em uma fila
+    public void TransformarPilhaFila() // Inverte a ordem da pilha, transformando em uma fila
     {
         FilaEncadeadaCircular<T> Outro = new FilaEncadeadaCircular<T>();
         while (!Vazia())
