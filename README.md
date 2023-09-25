@@ -45,6 +45,6 @@ E claro, não seria zelda-like se não pudessemos quebrar os jarros:
 
 ![Stack](https://github.com/dahiwas/TheLegendOfVaatiTutorialOfDestiny/blob/main/stacks/Jars.png)
 
-#Conclusão
+# Conclusão
 
 E dessa forma criamos esse jogo com essas estruturas de dados, em relação a parte aúdio-visual, a Nintendo detém todos os direitos. 
