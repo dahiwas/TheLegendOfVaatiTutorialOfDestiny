@@ -47,4 +47,4 @@ E claro, não seria zelda-like se não pudessemos quebrar os jarros:
 
 # Conclusão
 
-E dessa forma criamos esse jogo com essas estruturas de dados, em relação a parte aúdio-visual, a Nintendo detém todos os direitos. 
+E dessa forma criamos esse jogo utilizando o Software Unity com a linguagem C# sendo como objetivo principal a implementação dessas estruturas de dados, em relação a parte aúdio-visual, a Nintendo detém todos os direitos, mas também editamos alguns detalhes de pixelart com o software AseSprite. Já o video introdutório foi utilizado o software Adobe Premier.  
